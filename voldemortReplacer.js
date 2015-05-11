@@ -1,4 +1,4 @@
-var elems = document.querySelectorAll("div, section, article, td, p, span, a, li, h1, h2, h3, em, b, caption");
+var elems = document.querySelectorAll("div, section, article, td, th, p, span, a, li, h1, h2, h3, em, b, caption");
 
 //case insensitive searchWords
 var searchWords = [

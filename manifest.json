@@ -3,7 +3,7 @@
 
   "name": "Voldemort Replacer",
   "description": "This extension replaces the word Voldemort in websites with one of 3 random values.",
-  "version": "1.0",
+  "version": "1.1",
 
   "permissions": [
     "tabs", "http://*/*"
